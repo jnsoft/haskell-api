@@ -1,5 +1,5 @@
 {
-  "image": "haskell:slim",
+  "image": "haskell:latest",
   "features": {
   }
 }
