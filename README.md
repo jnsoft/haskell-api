@@ -2,8 +2,7 @@
 
 ```
 apt-get update
-apt-get install docker
-apt-get install docker-compose
+apt-get install docker docker-compose
 
 cd .devcontainer
 docker-compose build
